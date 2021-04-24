@@ -1,4 +1,4 @@
-package life.lilong.community;
+package life.zard.community;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

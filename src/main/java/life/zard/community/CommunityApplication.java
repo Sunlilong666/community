@@ -1,4 +1,4 @@
-package life.lilong.community;
+package life.zard.community;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
